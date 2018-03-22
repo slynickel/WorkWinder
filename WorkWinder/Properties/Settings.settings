@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WorkWinder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FlashOnStop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SaveActions" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MainFormWindowWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">375</Value>
+    </Setting>
+    <Setting Name="NameList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cust1,Cust2,Cust3,Internal,DLG1234,QAN5678</Value>
+    </Setting>
+    <Setting Name="SaveFolderOverride" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ManicTimeEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ManicTimePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RunOnStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HelpLinkWorkWinder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.google.com</Value>
+    </Setting>
+    <Setting Name="HelpLinkManicTimeDBPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://support.manictime.com/knowledgebase/articles/686235-where-is-data-stored</Value>
+    </Setting>
+    <Setting Name="LinkFeedback" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mailto:fatyofdoom@gmail.com?subject=WorkWinder Feedback</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
