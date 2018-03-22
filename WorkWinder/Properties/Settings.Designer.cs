@@ -139,7 +139,7 @@ namespace WorkWinder.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("mailto:fatyofdoom@gmail.com?subject=WorkWinder Feedback")]
+        [global::System.Configuration.DefaultSettingValueAttribute("mailto:slynickel.github@gmail.com?subject=WorkWinder Feedback")]
         public string LinkFeedback {
             get {
                 return ((string)(this["LinkFeedback"]));

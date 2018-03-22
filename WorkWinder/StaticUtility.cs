@@ -9,7 +9,7 @@ namespace WorkWinder
 {
     static class StaticUtility
     {
-        public const string version = "0.6.2";
+        public const string version = "0.6.4";
         public const float rowheight = 30F;
         public const int visualNonTimerRows = 2;
         public const int maximumRows = 30;

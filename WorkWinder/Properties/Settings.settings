@@ -33,7 +33,7 @@
       <Value Profile="(Default)">http://support.manictime.com/knowledgebase/articles/686235-where-is-data-stored</Value>
     </Setting>
     <Setting Name="LinkFeedback" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">mailto:fatyofdoom@gmail.com?subject=WorkWinder Feedback</Value>
+      <Value Profile="(Default)">mailto:slynickel.github@gmail.com?subject=WorkWinder Feedback</Value>
     </Setting>
   </Settings>
 </SettingsFile>
